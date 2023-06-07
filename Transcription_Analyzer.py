@@ -484,7 +484,7 @@ def find_specific_phrases(words, phrases):
 
 
 # Folder containing the text files
-folder_path = "C:/Users/EricDobbins/Call_Transcriptions"
+folder_path = "<Folder Path>"
 
 # Load English language model for named entity recognition
 nlp = spacy.load("en_core_web_sm")
